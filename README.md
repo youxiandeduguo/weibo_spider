@@ -9,4 +9,5 @@
 
 # 2
 ![3645a6d4b779c0d46094787f267ec0a1](https://github.com/user-attachments/assets/6c6eef56-d4d9-495b-ad88-7cfedfdeb8c8)
+
 指定专栏的group_id的值可以通过网址来获得
